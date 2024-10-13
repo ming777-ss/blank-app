@@ -6,3 +6,4 @@ PyPDF2
 pdfplumber
 re
 textrank4zh
+pip==24.2
